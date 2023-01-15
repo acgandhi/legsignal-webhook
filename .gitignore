@@ -1,0 +1,7 @@
+# Byte-compiled / optimized / DLL files Source: GitHub
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.idea/misc.xml
